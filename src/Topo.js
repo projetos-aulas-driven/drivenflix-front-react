@@ -1,5 +1,6 @@
 export default function Topo() {
-    const nome = prompt("Qual é o seu nome?");
+    // const nome = prompt("Qual é o seu nome?");
+    const nome = "Letícia";
     const imagemUsario = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbDexwez6fwjsz-N3lcR3P5xcQH5enbLr9Og&usqp=CAU";
 
     return (
