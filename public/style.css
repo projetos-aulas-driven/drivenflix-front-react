@@ -80,10 +80,9 @@ button {
 
 /* Classes - Conteudo */
 .conteudo {
-    /* Descomentar quando tiverem os cards */
-    /* display: flex;
+    display: flex;
     flex-wrap: wrap;
-    margin: 20px; */
+    margin: 20px;
 }
 
 /* Classes - Filme */
