@@ -17,7 +17,7 @@ export default function Topo() {
     }
 
     return (
-        <div class="topo">
+        <div className="topo">
             <h1>DrivenFlix</h1>
 
             <div>

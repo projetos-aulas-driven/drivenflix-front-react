@@ -2,14 +2,14 @@ import Topo from "./Topo";
 import Menu from "./Menu";
 import Conteudo from "./Conteudo";
 
-export default function App() { 
+export default function App() {
     return (
-        <div>
+        <>
             <Topo />
-            <div class="row">
+            <div className="row">
                 <Menu />
                 <Conteudo />
             </div>
-        </div>
+        </>
     );
 }
